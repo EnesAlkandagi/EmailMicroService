@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S1kbqRZ2sVVS49c3lb+/57DDLaf/Iext1P5UaN1ENl0=",
+  "Source": "NotificationMicroService",
+  "BasePath": "_content/NotificationMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
